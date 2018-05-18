@@ -1,0 +1,25 @@
+{
+  "name": "amazonb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Amazonb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinakhachat/Amazonb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinakhachat/Amazonb/issues"
+  },
+  "homepage": "https://github.com/karinakhachat/Amazonb#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "tables": "0.0.5"
+  }
+}
